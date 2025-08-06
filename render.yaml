@@ -1,4 +1,4 @@
-https://github.com/CloudChuck/telebot/pulseservices:
+services:
   - type: worker
     name: telegram-userbot
     env: python
